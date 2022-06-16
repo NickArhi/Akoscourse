@@ -64,5 +64,4 @@ int main() {
 	print_list(head);
 	return 0;
 	
-	// it outputs zero at the beginning of the original list and at the end of reversed due to the value of head of the list. IT'S A FEATURE, NOT A BLOODY BUG!!!!!!!!
 }
